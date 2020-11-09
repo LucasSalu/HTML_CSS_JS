@@ -1,0 +1,25 @@
+
+.campos{
+    margin: 0px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 7px;
+}
+
+#tabuleiro{
+    width: 315px;
+    padding: 10px;
+    display: block;
+    margin-top: 4%;
+    margin-left: 36%;
+    background-color: black;
+    border-radius: 30px;
+}
+#teste{
+    text-align: center;
+    display: block;
+    font-size: 20px;
+
+    
+}
